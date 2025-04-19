@@ -57,8 +57,6 @@
 ---
 
 ## 🧪 Automation Scripts & Experimental Labs
-
-- [`PlanetGreen`](https://github.com/kabiratnas/PlanetGreen-Directory-Structure-Automation) → Directory automation with a green vibe 🌍
 - [`Script_documentcreation`](https://github.com/kabiratnas/Script_documentcreation) → Shell scripts to power your docs
 
 ---
