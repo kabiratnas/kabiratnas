@@ -15,7 +15,7 @@
 
 ✨ Passionate about using technology to solve real-world problems in agribusiness, climate resilience, and sustainability.  
 🛠️ I automate workflows using tools like **Jenkins**, **Terraform**, **Kafka**, and **Snowflake**.  
-📊 I love transforming data into action — especially with **Python**, **ML**, and scalable cloud solutions.  
+📊 I love transforming data into action especially with **Python**, **ML**, and scalable cloud solutions.  
 
 ---
 
