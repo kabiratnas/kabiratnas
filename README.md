@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Kabirat Nasiru</h1>
 
 <p align="center">
-  🚀 DevOps Engineer • 🧠 Data Scientist and Engineer • 🌱 Sustainability Advocate  
+  🚀 DevOps Engineer • 🧠 Data Scientist and Engineer • 🌱 Agribusiness SME  
 </p>
 
 <p align="center">
