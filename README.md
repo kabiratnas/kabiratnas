@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Lola Nasiru</h1>
+<h1 align="center">Hey there 👋, I'm Kabi Nasiru</h1>
 
 <p align="center">
   🚀 DevOps Engineer • 🧠 Data Scientist and Engineer • 🌱 Agribusiness SME  
